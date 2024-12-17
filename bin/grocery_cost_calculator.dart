@@ -1,4 +1,4 @@
-void main(List<String> arguments) {
+void main() {
   List<Map<String, dynamic>> groceryItems = [
     {'name': 'Bread', 'price': 2.0},
     {'name': 'Eggs', 'price': 3.5},
